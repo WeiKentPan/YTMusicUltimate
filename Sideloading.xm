@@ -5,7 +5,7 @@
 #import "Source/Headers/YTAlertView.h"
 #import "Source/Headers/Localization.h"
 
-#define YT_BUNDLE_ID @"com.google.ios.youtubemusic"
+#define YT_BUNDLE_ID @"com.google.ios.ytmusic"
 #define YT_BUNDLE_NAME @"YouTubeMusic"
 #define YT_NAME @"YouTube Music"
 #define YTMULoginAlert @"YTMULoginAlert"
